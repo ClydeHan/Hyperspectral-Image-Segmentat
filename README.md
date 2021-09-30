@@ -1,1 +1,1 @@
-# Hyperspectral-Image-Segmentat
+# Hyperspectral-Image-Segmentation 
