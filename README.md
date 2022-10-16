@@ -9,9 +9,17 @@
 
 ## Segmentation 
 
+### rendered color image from spectral image
+![](images/rendered%20images.png)
 
+### K-Means clustering 
+![](images/image%20clustering.png)
 
 ## Human Perception
 
+### hue/chroma shift alternation
+![](images/Hue/Chroma%20Shift%20Alteration.png)
 
+### psychophysical experiment 
+![](images/screen.png)
 
